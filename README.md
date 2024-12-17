@@ -3,7 +3,7 @@ Indexing Initiative
 ## Features
 This is the final upload of Indexing Initiative content before project sunset.
 
-### MetaMap-generated COVID data
+### SemRep-generated COVID data
 Links to all of the various Indexing Initiative COVID-19 related activities and resources:
 
 https://wayback.archive-it.org/7867/20240404142135/https:/lhncbc.nlm.nih.gov/ii/information/COVID-19.html
